@@ -17,7 +17,7 @@ There are editor automation test plugins enabled in the project to easily run th
 <img width="188" alt="image" src="https://user-images.githubusercontent.com/49919817/213947092-43d05684-2142-4622-829e-2ff123f805f6.png"> <img width="600" alt="image" src="https://user-images.githubusercontent.com/49919817/213946994-1d5cd5d8-795a-4eb6-b335-c34f23c2a158.png">
 
 ### Command Line
-If you want to run the test from the command line without the editor fluff the command is:
+If you want to run the test without the editor fluff the command is:
 
 ```
 "[PathToProject]DelegatesProfiling.uproject" -unattended -game -nullrhi -execcmds="Automation RunTests [TestName]" -log
