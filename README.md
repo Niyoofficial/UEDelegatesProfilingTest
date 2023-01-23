@@ -22,3 +22,5 @@ If you want to run the test without the editor fluff the command is:
 ```
 "[PathToProject]DelegatesProfiling.uproject" -unattended -game -nullrhi -execcmds="Automation RunTests [TestName]" -log
 ```
+
+The project is provided with precompiled binaries for Win64 in Development Editor configuraion
