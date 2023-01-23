@@ -1,0 +1,8 @@
+{
+	"BuildId": "23058290",
+	"Modules": 
+	{
+		"DelegatesProfiling": "UnrealEditor-DelegatesProfiling.dll",
+		"DelegatesTests": "UnrealEditor-DelegatesTests.dll"
+	}
+}
