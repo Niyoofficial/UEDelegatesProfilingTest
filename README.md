@@ -1,7 +1,7 @@
 # UEDelegatesProfilingTest
 
 This repository is an unreal project containing a set of a simple automation tests with a purpose to measure unreal delegate system perfomance.
-Each test first binds a function to the delegate and than the delegate is broadcasted 1 milion times.
+Each test first binds a function to the delegate and then the delegate is broadcasted 1 milion times.
 
 There are currently 4 tests implemented:
 - Raw function bound with **AddUObject** to **Multicast Delegate** - Test Name: **Delegates.Multicast.UObject**
